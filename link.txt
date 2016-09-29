@@ -1,0 +1,13 @@
+
+https://en.wikibooks.org/wiki/Ruby_Programming/Unit_testing
+
+https://semaphoreci.com/community/tutorials/getting-started-with-rspec
+
+https://habrastorage.org/files/8bb/23b/a3a/8bb23ba3aede496395ac3a63d42380f2.jpg
+
+http://railscasts.com/episodes/155-beginning-with-cucumber
+
+https://github.com/dafuking/uCoz
+
+https://github.com/Paradoxxal/test_ukit
+
